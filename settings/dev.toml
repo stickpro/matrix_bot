@@ -1,0 +1,10 @@
+profile = "dev"
+
+[server]
+addr = "0.0.0.0"
+port = 8_081
+
+[matrix]
+home_server = "https://matrix.org"
+login =  "admin"
+password = "passowrd"
